@@ -1,8 +1,11 @@
-Title: ParkMania: Parking Management System
+#Project Title
+ParkMania: Parking Management System
 
-Group Members: Srinivas Vishwanath & Saurabh Sharma
+##Group Members
+Srinivas Vishwanath & Saurabh Sharma
 
-Description: In this system we focus to eradicate the problem of improper vehicle parking and unavailability of parking area. For this very purpose we have built a booking application that helps book or pre-book the slots for users. This application contains three major features which are:
+##Brief Description
+In this system we focus to eradicate the problem of improper vehicle parking and unavailability of parking area. For this very purpose we have built a booking application that helps book or pre-book the slots for users. This application contains three major features which are:
 1.	Pre Book a slot.
 2.	Check for Nearby Parking Areas.
 3.	Check Nearest Parking Area and get a slot there.
